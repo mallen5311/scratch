@@ -1,2 +1,2 @@
 # scratch
-sandbox of experiments, code exercises, and "just-trying-something"s
+A sandbox of experiments, code exercises, and "just-trying-something"s
